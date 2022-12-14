@@ -78,7 +78,7 @@ namespace CardCodedDate
             Console.WriteLine(answer);
         }
 
-        
+       
     }
 
     public class DateCalc
