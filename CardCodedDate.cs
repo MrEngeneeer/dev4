@@ -6,6 +6,7 @@ namespace CardCodedDate
     {
         
         
+        
         static string mod = "change";
 
         static void Main(string[] args)
