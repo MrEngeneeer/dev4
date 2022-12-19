@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\bin\Debug\netcoreapp3.1\CardCodedDate.exe
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\bin\Debug\netcoreapp3.1\CardCodedDate.deps.json
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\bin\Debug\netcoreapp3.1\CardCodedDate.runtimeconfig.json
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\bin\Debug\netcoreapp3.1\CardCodedDate.runtimeconfig.dev.json
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\bin\Debug\netcoreapp3.1\CardCodedDate.dll
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\bin\Debug\netcoreapp3.1\CardCodedDate.pdb
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.AssemblyInfo.cs
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.dll
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.pdb
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.genruntimeconfig.cache
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CardCodedDate\CardCodedDate\obj\Debug\netcoreapp3.1\CardCodedDate.GeneratedMSBuildEditorConfig.editorconfig
