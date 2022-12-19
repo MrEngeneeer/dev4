@@ -1,25 +1,23 @@
 
 
-name: .NET Core Desktop
+name: CS CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ main ]
 
 jobs:
-  my_action_job:
-    runs-on: windows-latest
-    name: A job to run VSTest
+  build:
+
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Download tests binary zip
-        run: powershell Invoke-WebRequest -Uri "https://localworker.blob.core.windows.net/win-x64/tests.zip" -OutFile "./tests.zip"
-      - name: Unzip tests binary
-        run: powershell Expand-Archive -Path tests.zip -DestinationPath ./
-      - name: Run tests
-        uses: microsoft/vstest-action@v1.0.0
-        with:
-          testAssembly: NUnitTestProject1.dll
-          searchFolder: .\NUnitTestProject1\bin\Debug\
-          runInParallel: true
+    - uses: actions/checkout@v2
+    - name: install csunit
+      run: sudo apt install -y libcsunit-dev
+    - name: make
+      run: make
+    - name: make test
+      run: make test
